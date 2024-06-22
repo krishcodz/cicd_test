@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>Hi there! I'm a React app running in a container on AWS Fargate.</p>
+        <p>My first Firebase deployment test !</p>
         <a
           className="App-link"
           href="https://reactjs.org"
